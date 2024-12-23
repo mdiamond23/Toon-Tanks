@@ -2,7 +2,7 @@
 A short action game made in Unreal Engine using C++. Made by Matthew Diamond, using Udemy Assets.  
 
 Here is a link to where you can play the game!  
-https://mdiamond23.itch.io/toon-tanks-demo  
+[**Toon Tanks On Itch**](https://mdiamond23.itch.io/toon-tanks-demo ) 
 
 I've attached code examples that were integral to the project.  
 

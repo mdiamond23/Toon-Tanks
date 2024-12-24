@@ -4,7 +4,7 @@ A short action game made in Unreal Engine using C++. Made by Matthew Diamond, us
 Here is a link to where you can play the game!  
 [**Toon Tanks On Itch**](https://mdiamond23.itch.io/toon-tanks-demo ) 
 
-I've attached code examples that were integral to the project. The code was written in 2024
+I've attached code examples that were integral to the project. This code was written in 2024.
 
 **`BasePawn.cpp/.h`**: Defines the base functionality for both **tanks** and **towers**. Manages core features like movement, turret rotation, firing projectiles, and handling destruction. Includes visual and audio effects on destruction, such as particle systems, sound cues, and camera shake.
 
